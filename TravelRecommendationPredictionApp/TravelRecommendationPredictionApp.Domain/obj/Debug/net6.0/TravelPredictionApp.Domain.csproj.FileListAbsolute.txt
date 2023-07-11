@@ -1,0 +1,12 @@
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\bin\Debug\net6.0\TravelPredictionApp.Domain.deps.json
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\bin\Debug\net6.0\TravelPredictionApp.Domain.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\bin\Debug\net6.0\TravelPredictionApp.Domain.pdb
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.AssemblyInfo.cs
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\refint\TravelPredictionApp.Domain.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\TravelPredictionApp.Domain.pdb
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelRecommendationPredictionApp.Domain\obj\Debug\net6.0\ref\TravelPredictionApp.Domain.dll

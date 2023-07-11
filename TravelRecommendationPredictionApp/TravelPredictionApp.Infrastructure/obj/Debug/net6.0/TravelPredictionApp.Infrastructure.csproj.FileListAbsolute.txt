@@ -1,0 +1,17 @@
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Infrastructure.deps.json
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Infrastructure.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Infrastructure.pdb
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Domain.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Service.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Service.pdb
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\bin\Debug\net6.0\TravelPredictionApp.Domain.pdb
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.csproj.CopyComplete
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\refint\TravelPredictionApp.Infrastructure.dll
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\TravelPredictionApp.Infrastructure.pdb
+C:\Users\Me\Desktop\DOTNET\TravelRecommendationPredictionApp\TravelPredictionApp.Infrastructure\obj\Debug\net6.0\ref\TravelPredictionApp.Infrastructure.dll
